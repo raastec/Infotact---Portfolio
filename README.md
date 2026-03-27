@@ -36,17 +36,17 @@ Python (Pandas, NumPy), Seaborn, Matplotlib, Scikit-learn, Tableau/Power BI
 total_stay,
 revenue
 ### 🗓 Week 2
-Do EDA:
+**Do EDA:**
 * cancellation analysis
 * price trends
 * seasonality
 ### 🗓 Week 3
-Build model:
-Train/test split
-Logistic Regression
+**Build model:**
+* Train/test split
+* Logistic Regression
 ### 🗓 Week 4
-Build dashboard
-Prepare presentation
+* Build dashboard
+* Prepare presentation
 
 ## Team Members
 1. Ardra N
