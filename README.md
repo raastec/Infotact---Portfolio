@@ -29,22 +29,22 @@ Python (Pandas, NumPy), Seaborn, Matplotlib, Scikit-learn, Tableau/Power BI
 
 
 ## 🚀4-Week Plan
-🗓 Week 1
+### 🗓 Week 1
 Clean data
 Handle missing values
 Create:
 total_stay
 revenue
-🗓 Week 2
+### 🗓 Week 2
 Do EDA:
 cancellation analysis
 price trends
 seasonality
-🗓 Week 3
+### 🗓 Week 3
 Build model:
 Train/test split
 Logistic Regression
-🗓 Week 4
+### 🗓 Week 4
 Build dashboard
 Prepare presentation
 
